@@ -1,5 +1,10 @@
 # EduHub Web — Ch02 (starter)
 
+- Họ tên: Nguyen Gia Bao
+- MSSV: 0024418799
+- Link GitHub Pages: https://0024418799-crypto.github.io/IN452901-LapTrinhFrontEnd/
+
+
 Bài thực hành chương 2 môn **IN4529 — Lập trình Front End**: tạo kiểu cho 4 trang EduHub Web của Ch01 bằng **CSS thuần hiện đại**, chạy đẹp trên điện thoại, máy tính bảng, máy tính, có cả dark mode.
 
 HTML đã xong (nội dung Ch01 + class + `<link rel="stylesheet" href="css/main.css">`). Em **chỉ viết CSS** trong thư mục `css/`, theo các dòng `/* TODO(ch2-Tk) */`.
